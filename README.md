@@ -6,6 +6,9 @@ This repository contains a machine learning project aimed at predicting the genr
 
 The goal of this project is to develop a robust machine learning model that accurately predicts the genre of a given song. The model utilizes audio features extracted from the songs to train a neural network.
 
+![ml_capstone](https://github.com/davidclaphan/ML-Audio-Prediction/assets/97066227/df5b9453-9013-4752-951a-b9fa193b9053)
+
+
 ## Repository Structure
 
 The repository is organized into two main directories:
